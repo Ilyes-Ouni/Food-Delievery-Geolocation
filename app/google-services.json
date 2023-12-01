@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "28179061249",
+    "firebase_url": "https://fooddelivery-cbeff-default-rtdb.firebaseio.com",
+    "project_id": "fooddelivery-cbeff",
+    "storage_bucket": "fooddelivery-cbeff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28179061249:android:19c1edcc5d65be2c7d7e00",
+        "android_client_info": {
+          "package_name": "com.ayoub.deliveryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuhFonv-QO45dJlUTqYd0RlggAB2lV-7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28179061249:android:5b918c79ee6abb3a7d7e00",
+        "android_client_info": {
+          "package_name": "com.example.deliveryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuhFonv-QO45dJlUTqYd0RlggAB2lV-7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
